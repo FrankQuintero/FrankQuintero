@@ -1,5 +1,6 @@
 Hi there 👋
-I am a Software Engineering student at **San José State University**, 
+
+I'm Frank, a Software Engineering student at **San José State University**
 
 I have a strong foundation in object-oriented programming, data structures, and algorithms. I have experience building and deploying web projects, including a personal portfolio website.
 
@@ -9,6 +10,11 @@ I am also a **Microsoft Student Ambassador** and an **MLT Fellow**, actively dev
 
 Fluent in Spanish, I bring strong communication skills and enjoy web development, creative projects, and staying active.
 
+Fun Facts:
+
+• Physically active in the Gym 
+• Big coffee fan 
+• Enjoy learning new skills beyond programming
 <!--
 **FrankQuintero/FrankQuintero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
