@@ -1,4 +1,13 @@
-## Hi there 👋
+Hi there 👋
+I am a Software Engineering student at **San José State University**, 
+
+I have a strong foundation in object-oriented programming, data structures, and algorithms. I have experience building and deploying web projects, including a personal portfolio website.
+
+Currently, I work as a **Software Engineering Intern at Krowd Guide**, supporting backend and data feature development using **SQL and Python**, and as an **AI Trainer at Handshake AI**, where I evaluate and improve large language model outputs. 
+
+I am also a **Microsoft Student Ambassador** and an **MLT Fellow**, actively developing my technical and leadership skills.
+
+Fluent in Spanish, I bring strong communication skills and enjoy web development, creative projects, and staying active.
 
 <!--
 **FrankQuintero/FrankQuintero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
