@@ -1,20 +1,21 @@
-Hi there 👋
+👋 Hi, I'm Frank Quintero Pacheco!
 
-I'm Frank, a Software Engineering student at **San José State University**
+I'm a Software Engineering student at San José State University passionate about building scalable software solutions, backend systems, and AI-driven applications.
 
-I have a strong foundation in object-oriented programming, data structures, and algorithms. I have experience building and deploying web projects, including a personal portfolio website.
+I have experience developing software using Java, Python, SQL, and web technologies. I have worked on backend development, database-driven applications, and AI projects, including building features that improve workflows and evaluating large language model outputs.
 
-Was a **Software Engineering Intern at Krowd Guide**, supporting backend and data feature development using **SQL and Python**, and as an **AI Trainer at Handshake AI**, where I evaluate and improve large language model outputs. 
+Currently, I am a Field Application Engineer Co-Op Intern at Supermicro, where I work with server technologies, troubleshooting, and software solutions. Previously, I worked as a Software Engineering Intern at Krowd Guide, contributing to backend and data-focused development using Python and SQL, and as an AI Trainer at Handshake AI, improving AI model performance through evaluation and feedback.
 
-I am also a **Microsoft Student Ambassador** and an **MLT Fellow**, actively developing my technical and leadership skills.
+I am interested in Software Engineering roles focused on backend development, cloud technologies, and artificial intelligence. I enjoy continuously learning new technologies and building projects that solve real-world problems.
 
-Fluent in Spanish, I bring strong communication skills and enjoy web development, creative projects, and staying active.
+🔗 LinkedIn: [Frank Quintero Pacheco](https://www.linkedin.com/in/frank-quintero-pacheco/)
 
-Fun Facts:
+📫 Email: frankquinteropacheco@gmail.com
 
-• Physically active in the Gym 
-• Big coffee fan 
-• Enjoy learning new skills beyond programming
+Skills:
+- Languages: Java, Python, SQL, JavaScript
+- Technologies: Git, HTML/CSS, TensorFlow, Keras, Pandas, NumPy, Scikit-learn
+- Interests: Backend Engineering, AI/ML, Cloud Computing, Software Development
 <!--
 **FrankQuintero/FrankQuintero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
